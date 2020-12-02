@@ -1,0 +1,3 @@
+com\companyname\springapp\web\InventoryControllerTests.class
+com\companyname\springapp\service\SimpleProductManagerTests.class
+com\companyname\springapp\domain\ProductTests.class
